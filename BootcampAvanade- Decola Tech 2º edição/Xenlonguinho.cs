@@ -13,7 +13,7 @@ Seu programa deve exibir a quantidade mínima de esferas que Kogu tem que procur
 
 using System;
 
-namespace Dio
+namespace Xenlonguinho
 {
     class Program
     {
@@ -28,3 +28,4 @@ namespace Dio
             }
         }
     }
+}
